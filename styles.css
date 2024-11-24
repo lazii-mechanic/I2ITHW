@@ -1,0 +1,20 @@
+body {
+    background-color: lightslategray;
+}
+
+h1, h2 {
+    color:rgb(11, 93, 26);
+}
+
+hr {
+    color: rgb(47, 56, 56);
+    background-color: rgb(47, 56, 56);
+}
+
+b {
+    color: rgb(199, 199, 88);
+}
+
+a {
+    color: rgb(144, 46, 46);
+}
